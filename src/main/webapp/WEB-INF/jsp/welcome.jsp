@@ -7,6 +7,7 @@
  
 <jsp:include page="fragments/staticFiles.jsp"/>
 
+ 
 <body>
 <div class="container">
     <jsp:include page="fragments/bodyHeader.jsp"/>
