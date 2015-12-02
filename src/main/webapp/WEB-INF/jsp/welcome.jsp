@@ -6,7 +6,6 @@
 <html lang="en">
  
 <jsp:include page="fragments/staticFiles.jsp"/>
-
  
 <body>
 <div class="container">
