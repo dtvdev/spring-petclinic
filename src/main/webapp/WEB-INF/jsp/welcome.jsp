@@ -10,7 +10,7 @@
 <body>
 <div class="container">
     <jsp:include page="fragments/bodyHeader.jsp"/>
-    <h2>Hello There!  Testing CICD for Customer1!!</h2>
+    <h2>Hello There!  Testing CICD for Customer2!!</h2>
     <spring:url value="/resources/images/pets.png" htmlEscape="true" var="petsImage"/>
     <img src="${petsImage}"/>
 
